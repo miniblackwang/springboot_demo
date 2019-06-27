@@ -1,0 +1,12 @@
+com:
+  name: xiaoming
+  sex: man
+  age: 18
+  like:
+    -³ª
+    -Ìø
+    -rap
+    -ÀºÇò
+  address:
+    key: value
+    key2: value2
